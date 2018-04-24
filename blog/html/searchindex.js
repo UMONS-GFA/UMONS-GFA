@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["master","pages/about"],envversion:53,filenames:["master.rst","pages/about.rst"],objects:{},objnames:{},objtypes:{},terms:{about:0},titles:["Sitemap","About"],titleterms:{about:1,sitemap:0}})
